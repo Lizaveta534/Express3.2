@@ -8,7 +8,7 @@
     "serve": "nodemon --inspect src/index.js"
   },
   "keywords": [],
-  "author": "Daniil Tsvetkov",
+  "author": "Kovalchuk Elizaveta",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
